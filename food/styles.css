@@ -179,6 +179,7 @@ button:hover{
   align-items: center;
   padding: 50px;
   background-color: #faf2e4;
+    width: 150%;
   }
 
 .about-content {
